@@ -53,6 +53,6 @@ class Telephone {
   telephone.addObserver(phoneNumberObserver);
   telephone.addObserver(dialingObserver);
   
-  telephone.addPhoneNumber('2347023232');
-  telephone.dialPhoneNumber('2347023232');
+  telephone.addPhoneNumber('0791125162');
+  telephone.dialPhoneNumber('0719521261');
   
